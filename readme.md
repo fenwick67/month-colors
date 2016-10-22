@@ -2,8 +2,7 @@
 
 Get changing color gradients for a Date.  Zero dependencies.  Very pretty.
 
-Based on [this codepen](http://codepen.io/fenwick/pen/dpwQvA?editors=0010) and generates the same gradients.  Inspired by Sony's XMB.
-
+Check out a preview [here](http://codepen.io/fenwick/pen/jrXJyy).  Inspired by Sony's XMB.
 
 ## Usage
 
