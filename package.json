@@ -1,0 +1,12 @@
+{
+  "name": "month-colors",
+  "version": "0.0.1",
+  "description": "Get changing colors for a Date",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js",
+    "browser-build": "/browserify > ./dist/month-colors.js && echo \"ok\" "
+  },
+  "author": "Drew Harwell",
+  "license": "MIT"
+}
