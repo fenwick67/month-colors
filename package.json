@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "node test.js",
-    "browser-build": "/browserify > ./dist/month-colors.js && echo \"ok\" "
+    "browser-build": "browserify > ./dist/month-colors.js && echo \"ok\" "
   },
   "author": "Drew Harwell",
   "license": "MIT"
