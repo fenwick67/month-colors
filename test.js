@@ -2,7 +2,7 @@
 const janHex = [0xe9e9e9,0xB1B1B1];
 const janBytes = [0xe9,0xb1];
 const janFilter = 0xCBCBCB;
-const cssGradient = 'radial-gradient(rgb(233,233,233 0%,rgb(177,177,177) 100%)';
+const cssGradient = 'radial-gradient(rgb(233,233,233) 0%,rgb(177,177,177) 100%)';
 
 // these tests are sketchy but #yolo
 

@@ -20,7 +20,7 @@ monthColors.gradient(october,'hex')
 // =>[ 14532352, 14981127 ], same as [0xddbf00,0xe49807]
 
 monthColors.gradientCss(october);
-// => 'radial-gradient(rgb(221,191,0 0%,rgb(228,152,7) 100%)'
+// => 'radial-gradient(rgb(221,191,0) 0%,rgb(228,152,7) 100%)'
 
 monthColors.filter(october,'hex')
 // => 0xe5a708.  A slightly darker orange for text shadows, etc

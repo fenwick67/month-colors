@@ -151,7 +151,7 @@ function mcGradientCss(dt){
     Math.round(d.g),
     ',',
     Math.round(d.b),
-    ' 0%,rgb(',
+    ') 0%,rgb(',
     Math.round(l.r),
     ',',
     Math.round(l.g),
